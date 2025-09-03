@@ -6,7 +6,7 @@ Predict player churn using the Kaggle dataset: "Prediction of User Loss in Mobil
 
 ```
 /
-├── data/                      # Place Kaggle CSVs here
+├── data/                      # Kaggle CSVs 
 │   ├── train.csv
 │   ├── test.csv
 │   ├── dev.csv
